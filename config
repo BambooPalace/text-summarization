@@ -1,0 +1,5 @@
+./eval_hyp/bsl1-0/PMC15028.txt ./pubmed/human-abstracts/PMC15028.txt
+./eval_hyp/bsl1-0/PMC16139.txt ./pubmed/human-abstracts/PMC16139.txt
+./eval_hyp/bsl1-0/PMC31918.txt ./pubmed/human-abstracts/PMC31918.txt
+./eval_hyp/bsl1-0/PMC15016.txt ./pubmed/human-abstracts/PMC15016.txt
+./eval_hyp/bsl1-0/PMC59588.txt ./pubmed/human-abstracts/PMC59588.txt
